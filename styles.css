@@ -27,3 +27,14 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+.card {
+    background-color: #ccc;
+    padding: 1%;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+.card:hover {
+    background-color: #fff;
+}
